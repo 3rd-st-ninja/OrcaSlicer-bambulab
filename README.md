@@ -37,6 +37,6 @@ Work in progress.
 
 I also encourage you to use BMCU.
 
-You can find BMCU firmware in my repositories.
+You can find BMCU firmware in my [repositories](https://github.com/jarczakpawel).
 
 </div>
